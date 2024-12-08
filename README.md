@@ -1,0 +1,2 @@
+### Overviews:
+It's a monorepo containing different mobile, web frontend/backend 3rd party apps with or without any customization, mainly for giving a test ride across multiple machine with different architectures.
